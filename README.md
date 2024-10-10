@@ -1,1 +1,2 @@
-# A-Comprehensive-ETL-Workflow-with-Python-for-Data-Engineers
+This Python script implements a comprehensive ETL (Extract, Transform, Load) workflow designed to process census data from various file formats: CSV, JSON, and XML. It extracts data from the specified directory, consolidates it into a single DataFrame, and performs transformations to standardize the data. Specifically, it converts height measurements from inches to meters and weight measurements from pounds to kilograms. The processed data is then saved as a CSV file, while the progress of each step is logged in a dedicated log file.
+
