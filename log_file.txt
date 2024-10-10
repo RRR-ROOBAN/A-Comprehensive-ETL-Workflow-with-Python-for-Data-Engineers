@@ -1,0 +1,12 @@
+2024-10-11 00:28:01.876600: Extracted data from CSV: E:\\Guvi Project\\Comperhensive_ELT\\source\source1.csv
+2024-10-11 00:28:01.881328: Extracted data from CSV: E:\\Guvi Project\\Comperhensive_ELT\\source\source2.csv
+2024-10-11 00:28:01.881328: Extracted data from CSV: E:\\Guvi Project\\Comperhensive_ELT\\source\source3.csv
+2024-10-11 00:28:01.901415: Extracted data from CSV: E:\\Guvi Project\\Comperhensive_ELT\\source\transformed_data.csv
+2024-10-11 00:28:01.910509: Extracted data from JSON: E:\\Guvi Project\\Comperhensive_ELT\\source\source1.json
+2024-10-11 00:28:01.917631: Extracted data from JSON: E:\\Guvi Project\\Comperhensive_ELT\\source\source2.json
+2024-10-11 00:28:01.926131: Extracted data from JSON: E:\\Guvi Project\\Comperhensive_ELT\\source\source3.json
+2024-10-11 00:28:01.930666: Extracted data from XML: E:\\Guvi Project\\Comperhensive_ELT\\source\source1.xml
+2024-10-11 00:28:01.932411: Extracted data from XML: E:\\Guvi Project\\Comperhensive_ELT\\source\source2.xml
+2024-10-11 00:28:01.937709: Extracted data from XML: E:\\Guvi Project\\Comperhensive_ELT\\source\source3.xml
+2024-10-11 00:28:01.937709: Data extraction completed.
+2024-10-11 00:28:01.941797: Transform Data completed.
