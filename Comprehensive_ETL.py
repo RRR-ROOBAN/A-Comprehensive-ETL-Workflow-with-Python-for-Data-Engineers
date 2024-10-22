@@ -48,6 +48,8 @@ def extract_xml(file_path):
 
     df=pd.DataFrame(data)
 
+#A master function will call the relevant function 
+
 def extract_data():
     combined_data = pd.DataFrame()
     
